@@ -1,8 +1,9 @@
 # Data-visualization
 data visualization based on a random number guessing game 
 
-#Cloning the repo
-#Building
+Clone the repo
+
+Building
 
 $ go mod init mygraph
 $ go mod tidy
@@ -13,11 +14,11 @@ $ go build
 
 should be enought to build the software
 
-#Running
+Running
 
 go run main.go diagram.go
 
-#About the Project
+About the Project
 
     Package Import:
         Imports necessary packages for working with files (os) and generating charts (github.com/wcharczuk/go-chart).
